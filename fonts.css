@@ -1,0 +1,60 @@
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Bold.woff") format("woff"), url("fonts/Montserrat Bold.eot") format("embedded-opentype"), url("fonts/Montserrat Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat.woff") format("woff"), url("fonts/Montserrat.eot") format("embedded-opentype"), url("fonts/Montserrat.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat-Regular.eot") format("embedded-opentype"), url("fonts/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Black.woff") format("woff"), url("fonts/Montserrat-Black.eot") format("embedded-opentype"), url("fonts/Montserrat-Black.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat-Light.woff") format("woff"), url("fonts/Montserrat-Light.eot") format("embedded-opentype"), url("fonts/Montserrat-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Book";
+   src: url("fonts/BebasNeueBook.woff") format("woff"), url("fonts/BebasNeueBook.eot") format("embedded-opentype"), url("fonts/BebasNeueBook.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Humnst777 Blk BT";
+   src: url("fonts/Humnst777 Blk BT Black Italic.woff") format("woff"), url("fonts/Humnst777 Blk BT Black Italic.eot") format("embedded-opentype"), url("fonts/Humnst777 Blk BT Black Italic.ttf") format("truetype"), url("fonts/Humnst777 Blk BT Black Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Broadway";
+   src: url("fonts/Broadway.woff") format("woff"), url("fonts/Broadway.eot") format("embedded-opentype"), url("fonts/Broadway.TTF") format("truetype"), url("fonts/Broadway.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
